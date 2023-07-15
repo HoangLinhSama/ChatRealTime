@@ -6,7 +6,7 @@ App Chat Realtime sử dụng NodeJS Socket IO
 ### MÔI TRƯỜNG
 * Android 7.0 Nougat
 * Min SDK 24
-*Java 18.0.2
+* Java 18.0.2
 * Node JS v19.0.1
 ### PHẦN MỀM
 * Android Studio Flamingo | 2022.2.1 Patch 2
@@ -20,6 +20,14 @@ App Chat Realtime sử dụng NodeJS Socket IO
 * Gửi tin nhắn RealTime
 ***
 ## GIAO DIỆN
-* Màn hình chính
+* Đăng ký user
 
-![Màn hình chính](https://github.com/HoangLinhSama/ChatRealTime/blob/master/Image/chat.png)
+![Đăng ký ](https://github.com/HoangLinhSama/ChatRealTime/blob/master/Image/dang_ky_user.png)
+
+* Gửi tin nhắn
+
+![Gửi tin nhắn](https://github.com/HoangLinhSama/ChatRealTime/blob/master/Image/chat.png)
+
+* Server
+
+![Server](https://github.com/HoangLinhSama/ChatRealTime/blob/master/Image/server.png)
